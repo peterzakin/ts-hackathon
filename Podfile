@@ -6,6 +6,8 @@ target 'ts-hackathon' do
   # use_frameworks!
 
   # Pods for ts-hackathon
+  pod 'SVProgressHUD'
+  pod 'FrameAccessor'
 
   target 'ts-hackathonTests' do
     inherit! :search_paths

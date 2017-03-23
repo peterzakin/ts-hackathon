@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TSRootViewController.h
 //  ts-hackathon
 //
 //  Created by Peter Zakin on 3/23/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TSRootViewController : UIViewController
 
 @end
-
